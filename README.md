@@ -1,4 +1,4 @@
-==== # EDA PROJECT:--IMDB_DataSet ====
+==== # EDA PROJECT:--IMDB_Movie DataSet ====
 
 🎬 Detailed Introduction – IMDb Movie Data Analysis Using Python Libraries.
 In the era of digital entertainment, data plays a crucial role in understanding audience preferences, production trends, and market behavior.
